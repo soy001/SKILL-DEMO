@@ -11,6 +11,6 @@ public class SkillDemo {
         this.y = y;
     }
     public int add(){
-        return x - y;
+        return x + y;
     }
 }
